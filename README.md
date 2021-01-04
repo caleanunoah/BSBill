@@ -7,7 +7,7 @@ react, python, css3, firebase, firestore, bootstrap, docker
 
 ## API's Used:
 - LEXNLP
-- Beutiful Soup
+- Beautiful Soup
 - Google-Cloud-Firebase
 - Google-Cloud-Firestore
 - Docker
